@@ -24,6 +24,7 @@ Campus Job Finder is a Python application designed to help students at Georgia T
 
 ### Usage
 Run the application:
+`cd dist`
 The application will start monitoring the Georgia Tech Campus Job Board URL specified in the script and notify you of new postings.
 
 ## Customization
