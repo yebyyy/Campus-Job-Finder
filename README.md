@@ -1,4 +1,4 @@
-# Campus Job Finder
+# Campus Job Finder(macOS)
 
 ## Overview
 Campus Job Finder is a Python application designed to help students at Georgia Tech stay informed about new job postings on their campus job boards. It automates the process of checking for new postings and notifies users through macOS notifications.
