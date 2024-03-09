@@ -34,6 +34,3 @@ Modify `main.py` to change the job board URL and the frequency of checks:
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or add new features.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
